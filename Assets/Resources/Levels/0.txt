@@ -1,0 +1,10 @@
+grid=2.2
+grid=2.3
+grid=3.3 flips=22
+grid=3.3 time=20
+grid=3.4 time=8 white=-1
+grid=3.4 time=35 joker=1
+grid=3.4 flips=24 white=4 joker=1 gravity=0
+grid=3.4 time=30 monster=5 gravity=0
+grid=3.3 time=15 monster=1 nomoney
+grid=3.4 time=15 freeze=2 monster=2 joker=1 _-_-_-_-_-_

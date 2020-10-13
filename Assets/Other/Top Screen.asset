@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccf10370c7e79d4cb0b3b412a4bff17, type: 3}
+  m_Name: Top Screen
+  m_EditorClassIdentifier: 
+  WallpaperType: 0
+  Palette:
+  - {r: 0.14978638, g: 0.59482646, b: 0.6226415, a: 1}
+  - {r: 0.8113208, g: 0.28702387, b: 0.36104214, a: 1}
+  - {r: 0.6509434, g: 0.5931719, b: 0.28555533, a: 1}
+  MixTime: 10
+  UpdateRate: 0.5

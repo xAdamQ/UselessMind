@@ -1,0 +1,13 @@
+<root>
+  <someTage>
+    <nastedTage>
+    </nastedTage>
+
+    <withAttribute size="34">
+    </withAttribute>
+
+    <!--References is like variable that refer to text/markup/character-->
+    <!--XML ignore whitespaces-->
+
+  </someTage>
+</root>
